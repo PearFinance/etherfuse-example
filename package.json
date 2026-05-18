@@ -12,5 +12,9 @@
   "dependencies": {
     "@stellar/stellar-sdk": "^15.1.0",
     "axios": "^1.16.1"
+  },
+  "devDependencies": {
+    "tsx": "^4.22.1",
+    "typescript": "^6.0.3"
   }
 }
